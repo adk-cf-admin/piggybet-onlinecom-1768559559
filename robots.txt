@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://piggybet-online.com/
+Sitemap: https://piggybet-online.com/sitemap.xml

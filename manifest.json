@@ -1,0 +1,19 @@
+{
+  "name": "PiggyBet",
+  "short_name": "PiggyBet",
+  "theme_color": "",
+  "background_color": "#f3f4f1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768557616-zagruzka-1.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

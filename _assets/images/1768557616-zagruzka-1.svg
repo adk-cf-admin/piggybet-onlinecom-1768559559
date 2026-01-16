@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Piggy Bet favicon">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0E65D7"></rect>
+
+  <!-- Pig head -->
+  <g shape-rendering="geometricPrecision">
+    <!-- Ears (behind head) -->
+    <path d="M18 25 L23 12 L31 23 Z" fill="#FFFFFF"></path>
+    <path d="M46 25 L41 12 L33 23 Z" fill="#FFFFFF"></path>
+
+    <!-- Head -->
+    <circle cx="32" cy="36" r="18" fill="#FFFFFF"></circle>
+
+    <!-- Eyes -->
+    <circle cx="26.5" cy="32" r="2" fill="#0E65D7"></circle>
+    <circle cx="37.5" cy="32" r="2" fill="#0E65D7"></circle>
+
+    <!-- Snout -->
+    <rect x="22" y="38" width="20" height="14" rx="7" fill="#0E65D7"></rect>
+    <circle cx="28.5" cy="45" r="2" fill="#FFFFFF"></circle>
+    <circle cx="35.5" cy="45" r="2" fill="#FFFFFF"></circle>
+  </g>
+</svg>
